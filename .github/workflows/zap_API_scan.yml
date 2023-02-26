@@ -63,8 +63,7 @@ from zapv2 import ZAPv2
 from zap_common import *
 
 
-class NoUrlsException(Exception):
-  pass
+class NoUrlsException(Exception): pass
 
 
 config_dict = {}
